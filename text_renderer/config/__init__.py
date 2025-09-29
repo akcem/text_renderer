@@ -117,9 +117,13 @@ class SimpleTextColorCfg(TextColorCfg):
         b = np.random.randint(0, int(mean * 0.7))
         text_color = (r, g, b, alpha)
 
-        return text_color
+        # return text_color
+        return (0, 0, 0, 255)
 
-
+@dataclass
+class BlackTextColorCfg:
+    def get_color(self, bg_img):
+        return (0, 0, 0, 255)
 @dataclass
 class RangeTextColorCfg(TextColorCfg):
     """

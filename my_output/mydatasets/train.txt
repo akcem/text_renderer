@@ -1,0 +1,257 @@
+images/train_word_1.jpg	16.72 ±0.38
+images/train_word_2.jpg	0.50 ±0.05 LED
+images/train_word_3.jpg	P/N&D/C
+images/train_word_4.jpg	L4
+images/train_word_5.jpg	Standoff
+images/train_word_6.jpg	6.35
+images/train_word_7.jpg	6.35
+images/train_word_8.jpg	21.78 ±0.38
+images/train_word_9.jpg	edgeare in the same lev
+images/train_word_10.jpg	Φ3.15
+images/train_word_11.jpg	R1
+images/train_word_12.jpg	(4.5)
+images/train_word_13.jpg	6.35
+images/train_word_14.jpg	-0.25
+images/train_word_15.jpg	P/N & D/C
+images/train_word_16.jpg	21.78 ±0.38
+images/train_word_17.jpg	13.55
+images/train_word_18.jpg	0.35 ±0.05RJ
+images/train_word_19.jpg	0.35 ±0.05
+images/train_word_20.jpg	Standoff
+images/train_word_21.jpg	Pre-soldering
+images/train_word_22.jpg	12.65
+images/train_word_23.jpg	0.2~0.6
+images/train_word_24.jpg	Pre-soldering
+images/train_word_25.jpg	0.35 ±0.05
+images/train_word_26.jpg	10.86 ±0.25
+images/train_word_27.jpg	R5
+images/train_word_28.jpg	R5
+images/train_word_29.jpg	RJ
+images/train_word_30.jpg	4.90
+images/train_word_31.jpg	-0.25
+images/train_word_32.jpg	4.90
+images/train_word_33.jpg	0.50 ±0.05
+images/train_word_34.jpg	6.35
+images/train_word_35.jpg	0.00
+images/train_word_36.jpg	(2.5)
+images/train_word_37.jpg	P/N&D/C
+images/train_word_38.jpg	Standoff
+images/train_word_39.jpg	2.54 TYP.
+images/train_word_40.jpg	6.35
+images/train_word_41.jpg	(10.7)
+images/train_word_42.jpg	2 5)
+images/train_word_43.jpg	0.00
+images/train_word_44.jpg	13.40 ±0.25
+images/train_word_45.jpg	4.57
+images/train_word_46.jpg	10.89 ±0.25
+images/train_word_47.jpg	6X2.00 ±0.50
+images/train_word_48.jpg	0
+images/train_word_49.jpg	3.05
+images/train_word_50.jpg	RJ
+images/train_word_51.jpg	R2
+images/train_word_52.jpg	7.57
+images/train_word_53.jpg	L2
+images/train_word_54.jpg	R4
+images/train_word_55.jpg	10.89 ±0.25
+images/train_word_56.jpg	2.54 TYP.
+images/train_word_57.jpg	(4.5)
+images/train_word_58.jpg	11.43
+images/train_word_59.jpg	1.27TYP.
+images/train_word_60.jpg	1.27 TYP.
+images/train_word_61.jpg	8.89
+images/train_word_62.jpg	10.89 ±0.25
+images/train_word_63.jpg	Φ3.15
+images/train_word_64.jpg	15.75 ±0.25
+images/train_word_65.jpg	L2
+images/train_word_66.jpg	R6
+images/train_word_67.jpg	3.05
+images/train_word_68.jpg	12.65
+images/train_word_69.jpg	(4.0)
+images/train_word_70.jpg	Φ3.15
+images/train_word_71.jpg	15.75 ±0.25
+images/train_word_72.jpg	0.35 ±0.05
+images/train_word_73.jpg	R7
+images/train_word_74.jpg	10.89 ±0.25
+images/train_word_75.jpg	0.50 ±0.08RJ
+images/train_word_76.jpg	R4
+images/train_word_77.jpg	(10.7)
+images/train_word_78.jpg	.25
+images/train_word_79.jpg	Standoff
+images/train_word_80.jpg	R6
+images/train_word_81.jpg	vertical clearance is zero.
+images/train_word_82.jpg	0.35 ±0.05
+images/train_word_83.jpg	R7
+images/train_word_84.jpg	3.05
+images/train_word_85.jpg	R1
+images/train_word_86.jpg	R6
+images/train_word_87.jpg	0.00
+images/train_word_88.jpg	(10.7)
+images/train_word_89.jpg	0.45 ±0.08
+images/train_word_90.jpg	0.50MAX.
+images/train_word_91.jpg	Φ3.15
+images/train_word_92.jpg	+0.19
+images/train_word_93.jpg	10.89 ±0.25
+images/train_word_94.jpg	10.89 ±0.25
+images/train_word_95.jpg	2.54
+images/train_word_96.jpg	R10
+images/train_word_97.jpg	3.05
+images/train_word_98.jpg	ight LED
+images/train_word_99.jpg	P/N&D/C
+images/train_word_100.jpg	(5.0)
+images/train_word_101.jpg	0.25
+images/train_word_102.jpg	3.05
+images/train_word_103.jpg	3.38
+images/train_word_104.jpg	Back View
+images/train_word_105.jpg	4.06
+images/train_word_106.jpg	R8
+images/train_word_107.jpg	1.27X9=11.43
+images/train_word_108.jpg	-0.25
+images/train_word_109.jpg	13.26
+images/train_word_110.jpg	13.26
+images/train_word_111.jpg	16.55 ±0.38
+images/train_word_112.jpg	0.2~0.6
+images/train_word_113.jpg	After Pre-s
+images/train_word_114.jpg	16.55 ±0.38
+images/train_word_115.jpg	L2
+images/train_word_116.jpg	8.89
+images/train_word_117.jpg	3.05
+images/train_word_118.jpg	0.00
+images/train_word_119.jpg	6.35
+images/train_word_120.jpg	0.
+images/train_word_121.jpg	3.20 ±0.25
+images/train_word_122.jpg	(4.0)
+images/train_word_123.jpg	2XΦ3.15 0.00/-0.25
+images/train_word_124.jpg	6X1.0 ±0.50
+images/train_word_125.jpg	1.27 TYP.
+images/train_word_126.jpg	0.50 ±0.08
+images/train_word_127.jpg	Standoff
+images/train_word_128.jpg	R6
+images/train_word_129.jpg	Φ3.15 0.00/-0.25
+images/train_word_130.jpg	R1
+images/train_word_131.jpg	3.20 ±0.25
+images/train_word_132.jpg	8.89
+images/train_word_133.jpg	8.89
+images/train_word_134.jpg	0.50 Max.
+images/train_word_135.jpg	3.05
+images/train_word_136.jpg	15.55 ±0.38
+images/train_word_137.jpg	0.50 Max.
+images/train_word_138.jpg	(2.5)
+images/train_word_139.jpg	11.80 +0.19/0.00
+images/train_word_140.jpg	21.78 ±0.38
+images/train_word_141.jpg	8.89
+images/train_word_142.jpg	L3
+images/train_word_143.jpg	R6
+images/train_word_144.jpg	A
+images/train_word_145.jpg	1.27X9=11.43
+images/train_word_146.jpg	0.35 ±0.05RJ
+images/train_word_147.jpg	2.54 TYP
+images/train_word_148.jpg	Φ3.15
+images/train_word_149.jpg	R6
+images/train_word_150.jpg	21.78 ±0.38
+images/train_word_151.jpg	A
+images/train_word_152.jpg	B
+images/train_word_153.jpg	R4
+images/train_word_154.jpg	13.00 ±0.25
+images/train_word_155.jpg	2XΦ3.15 0.00/-0.25
+images/train_word_156.jpg	(2.5)
+images/train_word_157.jpg	3.20 ±0.25
+images/train_word_158.jpg	15.75 ±0.25
+images/train_word_159.jpg	J
+images/train_word_160.jpg	L1
+images/train_word_161.jpg	0.35 ±0.05RJ
+images/train_word_162.jpg	3.20 ±0.25
+images/train_word_163.jpg	0.35 ±0.05
+images/train_word_164.jpg	Φ3.15 0.00/-0.25
+images/train_word_165.jpg	(4.0)
+images/train_word_166.jpg	13.35 ±0.25
+images/train_word_167.jpg	R5
+images/train_word_168.jpg	1.27 TYP.
+images/train_word_169.jpg	R2
+images/train_word_170.jpg	0.00
+images/train_word_171.jpg	0.25
+images/train_word_172.jpg	11.43 ±0.25
+images/train_word_173.jpg	(10.7)
+images/train_word_174.jpg	R8
+images/train_word_175.jpg	0.50 ±0.05
+images/train_word_176.jpg	B
+images/train_word_177.jpg	+0.19
+images/train_word_178.jpg	Right LED
+images/train_word_179.jpg	21.78 ±0.38
+images/train_word_180.jpg	6.35
+images/train_word_181.jpg	13.00 ±0.25
+images/train_word_182.jpg	R2
+images/train_word_183.jpg	15.75 ±0.25
+images/train_word_184.jpg	10.89 ±0.25
+images/train_word_185.jpg	2.54 TYP.
+images/train_word_186.jpg	R7
+images/train_word_187.jpg	11.80 +0.19/0.00
+images/train_word_188.jpg	0.50 ±0.05 LED
+images/train_word_189.jpg	Standoff
+images/train_word_190.jpg	1.27X7=8.89
+images/train_word_191.jpg	0.00
+images/train_word_192.jpg	6.35
+images/train_word_193.jpg	B
+images/train_word_194.jpg	4.90
+images/train_word_195.jpg	0.35 ±0.05RJ
+images/train_word_196.jpg	7.57
+images/train_word_197.jpg	8.89
+images/train_word_198.jpg	(5.0)
+images/train_word_199.jpg	10.89 ±0.25
+images/train_word_200.jpg	0.45 ±0.08
+images/train_word_201.jpg	6.30 ±0.07
+images/train_word_202.jpg	Standoff
+images/train_word_203.jpg	Left LED
+images/train_word_204.jpg	8.18
+images/train_word_205.jpg	R3
+images/train_word_206.jpg	L3
+images/train_word_207.jpg	0.50 ±0.05
+images/train_word_208.jpg	LED
+images/train_word_209.jpg	+0.25
+images/train_word_210.jpg	3.05
+images/train_word_211.jpg	R4
+images/train_word_212.jpg	6.35
+images/train_word_213.jpg	Standoff
+images/train_word_214.jpg	L4
+images/train_word_215.jpg	0.
+images/train_word_216.jpg	R1
+images/train_word_217.jpg	LED
+images/train_word_218.jpg	0.00
+images/train_word_219.jpg	1.27X9=11.43
+images/train_word_220.jpg	13.00 ±0.25
+images/train_word_221.jpg	R2
+images/train_word_222.jpg	0.50 ±0.05
+images/train_word_223.jpg	0.35 ±0.05RJ
+images/train_word_224.jpg	0.60 ±0.13
+images/train_word_225.jpg	0.00
+images/train_word_226.jpg	6.70 +0.25/0.00
+images/train_word_227.jpg	11.80 +0.19/0.00
+images/train_word_228.jpg	6.35
+images/train_word_229.jpg	(12.0)
+images/train_word_230.jpg	L1
+images/train_word_231.jpg	12.65
+images/train_word_232.jpg	L4
+images/train_word_233.jpg	+0.19
+images/train_word_234.jpg	13.00 ±0.25
+images/train_word_235.jpg	15.55 ±0.38
+images/train_word_236.jpg	8.40 +0.25/0.00
+images/train_word_237.jpg	21.78 ±0.38
+images/train_word_238.jpg	2.54 TYP.
+images/train_word_239.jpg	R2
+images/train_word_240.jpg	8.18
+images/train_word_241.jpg	L3
+images/train_word_242.jpg	(2.5)
+images/train_word_243.jpg	LED
+images/train_word_244.jpg	10.89 ±0.25
+images/train_word_245.jpg	6.35
+images/train_word_246.jpg	3.32
+images/train_word_247.jpg	3.38
+images/train_word_248.jpg	R3
+images/train_word_249.jpg	R3
+images/train_word_250.jpg	R7
+images/train_word_251.jpg	3.38
+images/train_word_252.jpg	2XΦ3.15 0.00/-0.25
+images/train_word_253.jpg	2X1.0 ±0.50
+images/train_word_254.jpg	6X2.0 ±0.50
+images/train_word_255.jpg	Φ3.15
+images/train_word_256.jpg	ED
+images/train_word_257.jpg	3.15 ±0.25

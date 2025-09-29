@@ -1,0 +1,46 @@
+数据集合并摘要
+==================================================
+
+合并时间：2025-09-25 13:45:03
+源数据集数量：6
+复制图片数量：3550
+有效标签数量：3550
+重复文件处理数量：7450
+训练集样本：2840
+验证集样本：710
+训练集比例：80.0%
+
+数据一致性检查：
+图片与标签匹配率：3550/3550 = 100.0%
+
+源数据集详情：
+1. engineering_dimensions
+   路径：D:/dl/projects/python/text_renderer/my_output/engineering_dimensions
+   图片数：700
+   标签文件：train.txt, val.txt
+
+2. random_engineering_text
+   路径：D:/dl/projects/python/text_renderer/my_output/random_engineering_text
+   图片数：700
+   标签文件：train.txt, val.txt
+
+3. simple_dimensions
+   路径：D:/dl/projects/python/text_renderer/my_output/simple_dimensions
+   图片数：250
+   标签文件：train.txt, val.txt
+
+4. stacked_tolerance
+   路径：D:/dl/projects/python/text_renderer/my_output/stacked_tolerance
+   图片数：700
+   标签文件：train.txt, val.txt
+
+5. temp
+   路径：D:/dl/projects/python/text_renderer/my_output/temp
+   图片数：500
+   标签文件：train.txt, val.txt
+
+6. tolerance_dimensions
+   路径：D:/dl/projects/python/text_renderer/my_output/tolerance_dimensions
+   图片数：700
+   标签文件：train.txt, val.txt
+
