@@ -19,11 +19,8 @@ FONT_DIR = CURRENT_DIR / "my_data" / "font"
 FONT_LIST_DIR = CURRENT_DIR / "my_data" / "font_list"
 TEXT_DIR = CURRENT_DIR / "my_data" / "text"
 CHAR_DIR = CURRENT_DIR / "my_data" / "char"
-
+from app.core.config_helpers import BlackTextColorCfg
 # 自定义黑色文字配置
-class BlackTextColorCfg:
-    def get_color(self, bg_img):
-        return (0, 0, 0, 255)  # 纯黑色，完全不透明
 
 # 基础字体配置
 font_cfg = dict(
@@ -32,48 +29,65 @@ font_cfg = dict(
     font_size=(30, 31),
 )
 
+
 def base_cfg(
-    name: str, 
-    corpus, 
-    corpus_effects=None, 
-    layout_effects=None, 
-    layout=None, 
-    gray=False,
-    num_image=100,
-    font_size=None,
-    
-    use_black_text=True
+        name: str,
+        corpus,
+        corpus_effects=None,
+        layout_effects=None,
+        layout=None,
+        gray=False,
+        num_image=100,
+        # font_size=None,          # 冗余：字体大小在 corpus 配置中处理
+        # use_black_text=True,     # 冗余：text_color_cfg 已硬编码为 BlackTextColorCfg()
+        override_num_image=None,
+        override_gray=None,
 ):
     """
-    优化的基础配置函数
-    
+    简化的基础配置函数（已修复运行时覆盖参数未生效的问题）
+
     Args:
         name: 配置名称
         corpus: 文本语料配置
         corpus_effects: 文本效果
-        layout_effects: 布局效果  
+        layout_effects: 布局效果
         layout: 布局类型
-        gray: 是否灰度图
-        num_image: 生成图像数量
-        font_size: 字体大小覆盖
-        use_black_text: 是否使用纯黑文字
+        gray: 是否灰度图（默认 False）
+        num_image: 生成图像数量（默认 100）
+        override_num_image: 运行时覆盖生成数量
+        override_gray: 运行时覆盖灰度设置
     """
-    text_color_cfg=BlackTextColorCfg()
-    # print(text_color_cfg.get_color())
+
+    # 1. 计算最终配置值 (已修正)
+    final_num_image = override_num_image if override_num_image is not None else num_image
+    final_gray = override_gray if override_gray is not None else gray
+
+    # 颜色配置（保持纯黑）
+    text_color_cfg = BlackTextColorCfg()
+
+    # 2. 构造 GeneratorCfg (使用 final_ 变量)
     return GeneratorCfg(
-        num_image=num_image,
+        # 使用修正后的 final_num_image
+        num_image=final_num_image,
         save_dir=OUT_DIR / name,
         render_cfg=RenderCfg(
             bg_dir=CURRENT_DIR / "my_data" / "bg",
             perspective_transform=NormPerspectiveTransformCfg(20, 20, 1.5),
-            gray=gray,
+            # 使用修正后的 final_gray
+            gray=final_gray,
             text_color_cfg=text_color_cfg,
             layout_effects=layout_effects,
             layout=layout,
             corpus=corpus,
+            # 简化：使用 NoEffects() 确保总是有一个效果列表（如果传入 None）
             corpus_effects=corpus_effects or NoEffects(),
         ),
     )
+
+
+# 移除的参数说明：
+# 1. font_size: 在辅助函数 create_*_corpus 中处理，base_cfg 不需要。
+# 2. use_black_text: 因为 BlackTextColorCfg() 已经硬编码，该参数是冗余的。
 
 def create_enum_corpus(text_file, font_size=None, filter_chars=False, chars_file=None):
     """创建枚举语料的辅助函数"""
@@ -208,4 +222,5 @@ configs = [
     stacked_tolerance(),          # 垂直公差布局
     random_engineering_text(),    # 随机工程字符
     # large_scale_engineering(),  # 大批量生成（可选）
+    # vertical_tolerance()
 ]
