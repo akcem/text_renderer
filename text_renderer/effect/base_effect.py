@@ -1,8 +1,7 @@
 """
-Base effect classes for text rendering augmentation.
+文本渲染增强的基础效果类。
 
-This module provides the base classes and utilities for implementing
-image augmentation effects in text rendering operations.
+本模块提供基础类和工具，用于在文本渲染操作中实现图像增强效果。
 """
 
 import random
@@ -17,16 +16,15 @@ from text_renderer.utils.utils import prob
 
 class Effect:
     """
-    Base class for applying different augmentations to images.
+    应用于图像不同增强的基础类。
 
-    This abstract base class defines the interface for all image effects
-    used in text rendering. Effects can modify images and potentially
-    update the text bounding box coordinates.
+    这个抽象基类定义了文本渲染中使用的所有图像效果的接口。
+    效果可以修改图像，并可能更新文本边界框坐标。
 
-    Examples of effects include: adding noise, dropout, padding, etc.
+    效果的例子包括：添加噪声、文字缺失、填充等。
 
-    Args:
-        p (float): Probability of applying this effect (default: 0.5)
+    参数:
+        p (float): 应用此效果的概率（默认值: 0.5）
     """
 
     def __init__(self, p: float = 0.5):
@@ -34,17 +32,17 @@ class Effect:
 
     def __call__(self, img: PILImage, text_bbox: BBox) -> Tuple[PILImage, BBox]:
         """
-        Apply the effect with the configured probability.
+        以配置的概率应用效果。
 
-        Args:
-            img (PILImage): Input image to apply effect to
-            text_bbox (BBox): Bounding box of text in the image
+        参数:
+            img (PILImage): 要应用效果的输入图像
+            text_bbox (BBox): 图像中文本的边界框
 
-        Returns:
-            Tuple[PILImage, BBox]: Modified image and updated bounding box
+        返回:
+            Tuple[PILImage, BBox]: 修改后的图像和更新后的边界框
         """
         if prob(self.p):
-            # Create a copy to ensure the image is writable
+            # 创建一个副本以确保图像是可写的
             img = img.copy()
             return self.apply(img, text_bbox)
         return img, text_bbox
@@ -52,35 +50,32 @@ class Effect:
     @abstractmethod
     def apply(self, img: PILImage, text_bbox: BBox) -> Tuple[PILImage, BBox]:
         """
-        Apply the effect to the image.
+        将效果应用于图像。
 
-        This method must be implemented by all subclasses to define
-        the specific augmentation behavior.
+        所有子类都必须实现此方法，以定义特定的增强行为。
 
-        Args:
-            img (PILImage): Image to apply effect to
-            text_bbox (BBox): Bounding box of text in the image
+        参数:
+            img (PILImage): 要应用效果的图像
+            text_bbox (BBox): 图像中文本的边界框
 
-        Returns:
-            Tuple[PILImage, BBox]: Modified image and updated bounding box.
-                Some effects (such as Padding) may modify the relative
-                position of the text in the image.
+        返回:
+            Tuple[PILImage, BBox]: 修改后的图像和更新后的边界框。
+                某些效果（如填充）可能会修改文本在图像中的相对位置。
         """
         pass
 
     @staticmethod
     def rand_pick(pim, col: int, row: int):
         """
-        Randomly reset pixel value at [col, row].
+        随机重置 [col, row] 处的像素值。
 
-        This utility method randomly reduces the pixel values at the
-        specified position. The new pixel value is a random integer
-        between 0 and the original pixel value.
+        此实用方法随机减少指定位置的像素值。
+        新的像素值是 0 和原始像素值之间的一个随机整数。
 
-        Args:
-            pim: Pixel access object from pil_img.load()
-            col (int): Column coordinate
-            row (int): Row coordinate
+        参数:
+            pim: 来自 pil_img.load() 的像素访问对象
+            col (int): 列坐标
+            row (int): 行坐标
         """
         pim[col, row] = (
             random.randint(0, pim[col, row][0]),
@@ -92,13 +87,13 @@ class Effect:
     @staticmethod
     def fix_pick(pim, col: int, row: int, value_range: Tuple[int, int]):
         """
-        Set pixel value to a random value within the specified range.
+        将像素值设置为指定范围内的随机值。
 
-        Args:
-            pim: Pixel access object from pil_img.load()
-            col (int): Column coordinate
-            row (int): Row coordinate
-            value_range (Tuple[int, int]): Range for random value selection
+        参数:
+            pim: 来自 pil_img.load() 的像素访问对象
+            col (int): 列坐标
+            row (int): 行坐标
+            value_range (Tuple[int, int]): 随机值选择的范围
         """
         value = random.randint(*value_range)
         pim[col, row] = (value, value, value, value)
@@ -106,47 +101,44 @@ class Effect:
 
 class NoEffects:
     """
-    Placeholder class when no effects are desired for multi-corpus scenarios.
+    在多语料场景下不需要效果时的占位符类。
 
-    This class provides a no-op implementation that simply returns the
-    input image and bounding box unchanged.
+    此类提供一个无操作实现，简单地返回未更改的输入图像和边界框。
     """
 
     def apply_effects(self, img: PILImage, bbox: BBox) -> Tuple[PILImage, BBox]:
         """
-        Return the input image and bounding box unchanged.
+        返回未更改的输入图像和边界框。
 
-        Args:
-            img (PILImage): Input image
-            bbox (BBox): Input bounding box
+        参数:
+            img (PILImage): 输入图像
+            bbox (BBox): 输入边界框
 
-        Returns:
-            Tuple[PILImage, BBox]: Unchanged image and bounding box
+        返回:
+            Tuple[PILImage, BBox]: 未更改的图像和边界框
         """
         return img, bbox
 
 
 class Effects:
     """
-    Apply multiple effects in sequence.
+    按顺序应用多个效果。
 
-    This class manages the application of multiple effects to an image.
-    It can handle individual effects, lists of effects, or effect selectors.
+    此类管理将多个效果应用于图像的操作。
+    它可以处理单个效果、效果列表或效果选择器。
 
-    Args:
+    参数:
         effects (Union[Effect, List[Effect], Selector, List[Selector]]):
-            Effect(s) to apply. Can be a single effect, list of effects,
-            selector, or list of selectors.
+            要应用的效果。可以是一个单一效果、效果列表、选择器或选择器列表。
     """
 
     def __init__(self, effects: Union[Effect, List[Effect], Selector, List[Selector]]):
         """
-        Initialize the Effects container.
+        初始化 Effects 容器。
 
-        Args:
+        参数:
             effects (Union[Effect, List[Effect], Selector, List[Selector]]):
-                Effect(s) to apply. Can be a single effect, list of effects,
-                selector, or list of selectors.
+                要应用的效果。可以是一个单一效果、效果列表、选择器或选择器列表。
         """
         if not isinstance(effects, list):
             effects = [effects]
@@ -154,16 +146,16 @@ class Effects:
 
     def apply_effects(self, img: PILImage, bbox: BBox) -> Tuple[PILImage, BBox]:
         """
-        Apply all configured effects to the image.
+        将所有配置的效果应用于图像。
 
-        Args:
-            img (PILImage): Input image to apply effects to
-            bbox (BBox): Bounding box of text in the image
+        参数:
+            img (PILImage): 要应用效果的输入图像
+            bbox (BBox): 图像中文本的边界框
 
-        Returns:
-            Tuple[PILImage, BBox]: Image with all effects applied and updated bounding box
+        返回:
+            Tuple[PILImage, BBox]: 应用了所有效果的图像和更新后的边界框
         """
-        # Create a copy to ensure the image is writable
+        # 创建一个副本以确保图像是可写的
         img = img.copy()
         for e in self.effects:
             img, bbox = e(img, bbox)

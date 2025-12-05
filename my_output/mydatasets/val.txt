@@ -1,0 +1,82 @@
+images/val_word_1.jpg	8.18
+images/val_word_2.jpg	L2
+images/val_word_3.jpg	8.40 +0.25/0.00
+images/val_word_4.jpg	08
+images/val_word_5.jpg	(4.0)
+images/val_word_6.jpg	(2.5)
+images/val_word_7.jpg	3.05
+images/val_word_8.jpg	15.55 ±0.38
+images/val_word_9.jpg	Φ3.15
+images/val_word_10.jpg	15.75 ±0.25
+images/val_word_11.jpg	3.20 ±0.25
+images/val_word_12.jpg	2.54TYP.
+images/val_word_13.jpg	LED
+images/val_word_14.jpg	0.2~0.6
+images/val_word_15.jpg	R1
+images/val_word_16.jpg	3.05
+images/val_word_17.jpg	0.35 ±0.05RJ
+images/val_word_18.jpg	-0.2
+images/val_word_19.jpg	1.27X7=8.89
+images/val_word_20.jpg	RJ
+images/val_word_21.jpg	0.35 ±0.05
+images/val_word_22.jpg	13.55
+images/val_word_23.jpg	0.50 ±0.08RJ
+images/val_word_24.jpg	P/N&D/C
+images/val_word_25.jpg	0.2~
+images/val_word_26.jpg	(12.0)
+images/val_word_27.jpg	Standoff
+images/val_word_28.jpg	R7
+images/val_word_29.jpg	R5
+images/val_word_30.jpg	2.50 ±0.25
+images/val_word_31.jpg	R9
+images/val_word_32.jpg	R4
+images/val_word_33.jpg	4.90
+images/val_word_34.jpg	(12.0)
+images/val_word_35.jpg	0.50 ±0.08
+images/val_word_36.jpg	0.50 ±0.08
+images/val_word_37.jpg	(5 0)
+images/val_word_38.jpg	3.05
+images/val_word_39.jpg	21.50 ±0.38
+images/val_word_40.jpg	R9
+images/val_word_41.jpg	P/N&D/C
+images/val_word_42.jpg	13.00 ±0.25
+images/val_word_43.jpg	0.50 ±0.08RJ
+images/val_word_44.jpg	R10
+images/val_word_45.jpg	0.45 ±0.08
+images/val_word_46.jpg	4.90
+images/val_word_47.jpg	0.50 ±0.05
+images/val_word_48.jpg	10.89 ±0.25
+images/val_word_49.jpg	1.27 TYP.
+images/val_word_50.jpg	+0.25
+images/val_word_51.jpg	(5.0)
+images/val_word_52.jpg	R2
+images/val_word_53.jpg	21.78 ±0.38
+images/val_word_54.jpg	10.89 ±0.25
+images/val_word_55.jpg	6.70 +0.25/0.00
+images/val_word_56.jpg	ED
+images/val_word_57.jpg	6.35
+images/val_word_58.jpg	R5
+images/val_word_59.jpg	(4.5)
+images/val_word_60.jpg	R8
+images/val_word_61.jpg	(Yellow)
+images/val_word_62.jpg	21.78 ±0.38
+images/val_word_63.jpg	0.50 MAX.
+images/val_word_64.jpg	R3
+images/val_word_65.jpg	0.5 Max.
+images/val_word_66.jpg	10.89 ±0.25
+images/val_word_67.jpg	3.05
+images/val_word_68.jpg	11.80 +0.19/0.00
+images/val_word_69.jpg	15.75 ±0.25
+images/val_word_70.jpg	0.00
+images/val_word_71.jpg	P/N&D/C
+images/val_word_72.jpg	0.08 LED
+images/val_word_73.jpg	Φ3.15 0.00/-0.25
+images/val_word_74.jpg	3.2 ±0.25
+images/val_word_75.jpg	+0.25
+images/val_word_76.jpg	L1
+images/val_word_77.jpg	8LED
+images/val_word_78.jpg	3.20 ±0.25
+images/val_word_79.jpg	R8
+images/val_word_80.jpg	L1
+images/val_word_81.jpg	Φ3.15 0.00/-0.25
+images/val_word_82.jpg	21.78 ±0.38

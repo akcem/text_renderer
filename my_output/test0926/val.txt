@@ -1,0 +1,778 @@
+images/000000570_3.jpg	X5-0.30
+images/000000384_2.jpg	Φ1.94 +0.07/-0.03
+images/000000047_3.jpg	Φ6.57 +0.10/-0.03
+images/000000369_1.jpg	cx:dV
+images/000000124_2.jpg	1X
+images/000000146_4.jpg	=-0.05
+images/000000238_2.jpg	Φ30.15
+images/000000047.jpg	65.40
+images/000000641_1.jpg	]Hz)S
+images/000000443_1.jpg	$l{r
+images/000000252.jpg	17.27
+images/000000058_2.jpg	100.50
+images/000000081_1.jpg	r|UG
+images/000000283_3.jpg	M6±0.08
+images/000000305_4.jpg	2.415±0.25
+images/000000638_2.jpg	Φ25.40-0.25
+images/000000536_1.jpg	R&C
+images/000000214_4.jpg	0.13±0.18
+images/train_word_101.jpg	0.25
+images/000000047_2.jpg	LED
+images/000000507.jpg	Φ30.15
+images/000000657.jpg	M6
+images/000000169_2.jpg	2.415
+images/000000165_1.jpg	u%ΦfU|O
+images/val_word_29.jpg	R5
+images/train_word_125.jpg	1.27 TYP.
+images/000000187_2.jpg	3.15
+images/000000290.jpg	28.14
+images/000000282_2.jpg	Φ9.03 +0.02/-0.04
+images/000000438_2.jpg	Φ1.17 +0.02/-0.03
+images/000000098_4.jpg	TYP.±0.08
+images/000000194_2.jpg	15.49
+images/000000234_5.jpg	125.75±0.18
+images/000000051_2.jpg	3.22
+images/000000520_3.jpg	15.49-0.05
+images/000000250_1.jpg	@Φ@I?@
+images/000000002.jpg	-
+images/000000275_3.jpg	1.15±0.05
+images/000000612_3.jpg	Φ20.00-0.30
+images/000000228_3.jpg	Φ5.43 +0.07/-0.03
+images/000000101.jpg	Φ5.20
+images/000000254_2.jpg	Φ4.26 +0.07/-0.06
+images/train_word_254.jpg	6X2.0 ±0.50
+images/000000170_3.jpg	Φ8.82 +0.06/-0.08
+images/000000240_4.jpg	X4±0.25
+images/000000475_2.jpg	Φ3.26 +0.09/-0.06
+images/000000235_1.jpg	fj{N
+images/000000402_3.jpg	soldering-0.10
+images/000000504_3.jpg	3.15±0.25
+images/000000423_1.jpg	sit9±a!
+images/000000126_4.jpg	AfterPre±0.12
+images/000000313_3.jpg	30.00-0.30
+images/000000457_1.jpg	-W8wL
+images/000000485_4.jpg	2.030.00
+images/000000099_4.jpg	M20±0.05
+images/000000399_2.jpg	Φ1.61 +0.05/-0.02
+images/000000161_2.jpg	200.25
+images/train_word_188.jpg	0.50 ±0.05 LED
+images/000000343_2.jpg	Φ6.30 +0.09/-0.09
+images/000000597_1.jpg	/@^
+images/000000507_3.jpg	4.57±0.18
+images/000000494.jpg	Φ30.15
+images/val_word_10.jpg	15.75 ±0.25
+images/000000225_1.jpg	\U9)s5E
+images/000000437.jpg	3.15
+images/000000230_4.jpg	&±0.25
+images/000000264_1.jpg	0,+
+images/000000193_5.jpg	28.14±0.08
+images/000000341_1.jpg	bx1yc8@
+images/000000028_5.jpg	4.06±0.10
+images/000000439_1.jpg	#:v<kk
+images/000000125.jpg	M16
+images/000000444_4.jpg	(7.8)±0.12
+images/000000120_2.jpg	17.27
+images/000000558_3.jpg	0.08±0.10
+images/000000395_2.jpg	Φ7.19 +0.05/-0.02
+images/000000116_1.jpg	I>{=f7
+images/000000017.jpg	0.2
+images/000000370_3.jpg	soldering±0.10
+images/000000399.jpg	0.20
+images/000000252_3.jpg	soldering±0.20
+images/000000407_4.jpg	M10±0.05
+images/val_word_8.jpg	15.55 ±0.38
+images/000000315_4.jpg	X4-0.25
+images/000000248_1.jpg	&=gU
+images/000000329.jpg	2.54TYP.
+images/train_word_58.jpg	11.43
+images/000000038_1.jpg	>KHxol[
+images/000000091_4.jpg	AfterPre±0.05
+images/000000205_3.jpg	Φ2.11 +0.09/-0.09
+images/000000120_5.jpg	Φ16.75±0.15
+images/000000496_2.jpg	Φ5.80 +0.02/-0.06
+images/train_word_210.jpg	3.05
+images/000000338_3.jpg	25.12±0.12
+images/000000575_1.jpg	mKI
+images/000000583_3.jpg	11.43-0.05
+images/000000354_1.jpg	YMCc
+images/000000536_2.jpg	15.49±0.05
+images/000000283_1.jpg	;gKaK
+images/000000190.jpg	1.15
+images/000000116_2.jpg	/
+images/000000174_3.jpg	Φ5.95 +0.09/-0.06
+images/000000403.jpg	3.15
+images/000000240_2.jpg	0.6
+images/000000557_1.jpg	jEbw}G
+images/000000514.jpg	Φ20.00
+images/000000626.jpg	2.03
+images/train_word_180.jpg	6.35
+images/000000223_4.jpg	Φ5.20-0.12
+images/000000572_2.jpg	28.14±0.25
+images/000000025_3.jpg	Φ3.30 +0.07/-0.08
+images/000000349.jpg	10.61
+images/000000603.jpg	X8
+images/000000234_2.jpg	X8
+images/000000668_2.jpg	=±0.08
+images/000000012_1.jpg	ea))
+images/000000209.jpg	=
+images/000000123_1.jpg	8q'
+images/000000418.jpg	M24
+images/000000053_4.jpg	0.25±0.03
+images/000000322_3.jpg	0.13+0.15
+images/train_word_118.jpg	0.00
+images/train_word_76.jpg	R4
+images/000000471.jpg	15.83
+images/000000324.jpg	200.25
+images/train_word_255.jpg	Φ3.15
+images/000000132_2.jpg	25.12
+images/000000161.jpg	X6
+images/000000248_4.jpg	30.00±0.10
+images/000000087_4.jpg	2X±0.05
+images/000000123_3.jpg	Φ3.35 +0.06/-0.04
+images/000000034_3.jpg	Φ8.54 +0.04/-0.05
+images/000000437_1.jpg	Ke/%p
+images/000000012.jpg	(
+images/000000131_5.jpg	65.40-0.05
+images/000000125_4.jpg	17.27±0.30
+images/000000129_5.jpg	&±0.12
+images/000000027_4.jpg	M16+0.03
+images/000000313.jpg	2X
+images/train_word_35.jpg	0.00
+images/000000243_3.jpg	Φ3.56 +0.10/-0.10
+images/000000593_1.jpg	M±o-a/±
+images/000000558_1.jpg	|E±XQ
+images/train_word_56.jpg	2.54 TYP.
+images/000000039_2.jpg	4.06
+images/000000030_3.jpg	Φ8.31 +0.04/-0.10
+images/000000048_2.jpg	125.75
+images/000000415_3.jpg	M8+0.25
+images/000000097.jpg	7X
+images/000000377.jpg	X6
+images/000000205_1.jpg	M$I
+images/000000489.jpg	25.78
+images/000000181_5.jpg	25.12-0.25
+images/000000040_2.jpg	Φ5.20
+images/000000404.jpg	3.15
+images/000000421_1.jpg	}UB
+images/000000437_2.jpg	Φ2.04 +0.08/-0.07
+images/000000279.jpg	15.83
+images/000000667_1.jpg	Q9X±7s
+images/train_word_131.jpg	3.20 ±0.25
+images/000000105_5.jpg	15.83±0.10
+images/000000089_4.jpg	7X±0.08
+images/000000292_3.jpg	0.38+0.25
+images/000000508_3.jpg	1.15±0.25
+images/000000342.jpg	0.20
+images/000000121_1.jpg	}`&
+images/000000487_1.jpg	u-%V:{
+images/000000496_4.jpg	15.49±0.05
+images/000000080_3.jpg	Φ6.67 +0.04/-0.05
+images/000000346_2.jpg	Φ6.67 +0.05/-0.10
+images/000000153_3.jpg	Φ7.47 +0.06/-0.04
+images/000000445_3.jpg	X4+0.08
+images/000000232_1.jpg	`CXSu2
+images/val_word_6.jpg	(2.5)
+images/000000456_2.jpg	Φ1.03 +0.09/-0.02
+images/000000516_1.jpg	(apBL`
+images/000000477_1.jpg	G*ccL%
+images/000000301.jpg	&
+images/000000095_3.jpg	Φ1.91 +0.10/-0.08
+images/000000007_3.jpg	Φ9.23 +0.06/-0.05
+images/000000261_3.jpg	125.75±0.08
+images/000000109_2.jpg	15.49
+images/000000207_3.jpg	Φ7.51 +0.06/-0.09
+images/000000235_5.jpg	Φ16.75±0.25
+images/000000258_3.jpg	1.27±0.12
+images/000000163_1.jpg	0$V
+images/train_word_148.jpg	Φ3.15
+images/train_word_57.jpg	(4.5)
+images/000000029.jpg	0.6
+images/000000321_1.jpg	yCNj
+images/000000259_2.jpg	Φ2.87 +0.02/-0.06
+images/000000138_5.jpg	1X±0.03
+images/000000533.jpg	150.00
+images/000000511_3.jpg	1.15±0.20
+images/000000584_1.jpg	`O1T$
+images/000000488_4.jpg	3.15±0.12
+images/000000307.jpg	3X
+images/000000073_5.jpg	Φ5.20±0.18
+images/000000520_2.jpg	17.07±0.05
+images/000000237_5.jpg	0.00±0.00
+images/000000300_1.jpg	WQLa9
+images/000000184_5.jpg	11.43-0.25
+images/000000619.jpg	15.49
+images/000000015.jpg	2.67
+images/train_word_60.jpg	1.27 TYP.
+images/000000134_1.jpg	R;XXW±
+images/000000180_1.jpg	B8B
+images/000000247_4.jpg	M20+0.10
+images/train_word_97.jpg	3.05
+images/000000383_1.jpg	CΦw5u
+images/000000438.jpg	=
+images/000000629_2.jpg	2.67±0.03
+images/000000148_4.jpg	&±0.05
+images/000000260_3.jpg	/-0.05
+images/000000466_1.jpg	%Bk
+images/train_word_159.jpg	J
+images/000000074.jpg	18.07
+images/000000127_2.jpg	15.49
+images/000000546_2.jpg	0.00+0.12
+images/000000084_1.jpg	z|G\J#
+images/train_word_187.jpg	11.80 +0.19/0.00
+images/000000491.jpg	6X
+images/000000108_5.jpg	25.78-0.18
+images/000000309_1.jpg	"LOMAp
+images/000000104_5.jpg	10.61±0.08
+images/000000217_3.jpg	Φ7.45 +0.04/-0.02
+images/000000646_1.jpg	Tjb%>o#
+images/000000242_3.jpg	Φ2.54 +0.06/-0.03
+images/000000429_1.jpg	K(IWlEE
+images/000000673_2.jpg	11.0±0.15
+images/000000448_2.jpg	Φ8.95 +0.06/-0.02
+images/000000688.jpg	-
+images/000000473_4.jpg	(3.5)±0.05
+images/000000634.jpg	TYP.
+images/000000423_4.jpg	=±0.08
+images/000000212_2.jpg	45.75
+images/000000589_2.jpg	)±0.10
+images/000000144_1.jpg	ps{,I
+images/000000573.jpg	X9
+images/000000360_2.jpg	Φ2.79 +0.08/-0.06
+images/000000189_2.jpg	-
+images/000000202_2.jpg	50.25
+images/train_word_42.jpg	2 5)
+images/000000432_2.jpg	Φ6.66 +0.08/-0.04
+images/000000045_5.jpg	200.25±0.10
+images/000000434_4.jpg	/±0.25
+images/000000015_5.jpg	LED±0.25
+images/000000593_2.jpg	)-0.18
+images/000000102_1.jpg	Y+!F?
+images/000000124_1.jpg	9}c;7
+images/000000137_2.jpg	3.15
+images/000000365.jpg	±
+images/000000097_1.jpg	.ΦΦZr
+images/000000690.jpg	M12
+images/000000523_1.jpg	dhB
+images/000000036_1.jpg	p+G`;y-
+images/000000319_3.jpg	X5-0.25
+images/000000210.jpg	4.70
+images/000000304_3.jpg	Φ8.00+0.03
+images/000000033.jpg	2.03
+images/000000340_4.jpg	0.08±0.10
+images/000000215.jpg	X6
+images/000000245_2.jpg	2.03
+images/000000382_2.jpg	Φ5.39 +0.09/-0.08
+images/000000560_3.jpg	M20-0.08
+images/000000167_1.jpg	9F!#>77
+images/000000096_1.jpg	'P!%)dP
+images/000000120_3.jpg	Φ1.82 +0.07/-0.07
+images/000000108_2.jpg	2.415
+images/000000522_1.jpg	5t^I5x
+images/000000533_1.jpg	;&8
+images/000000118_3.jpg	Φ7.55 +0.07/-0.04
+images/000000374_4.jpg	(+0.20
+images/000000442_3.jpg	Φ±0.25
+images/000000604_3.jpg	2.67±0.00
+images/000000591_2.jpg	3X±0.00
+images/000000284.jpg	0.38
+images/000000651_3.jpg	M24±0.30
+images/000000288_3.jpg	6X±0.03
+images/000000590.jpg	TYP.
+images/000000608.jpg	1.27TYP.
+images/val_word_1.jpg	8.18
+images/000000620_1.jpg	)g^0
+images/000000222_4.jpg	1.27-0.05
+images/000000261_1.jpg	+N,(?k
+images/000000330_1.jpg	B`g0±rt
+images/000000385.jpg	25.78
+images/000000018.jpg	Φ12.50
+images/000000052_5.jpg	)±0.08
+images/000000205_5.jpg	soldering-0.05
+images/000000034_5.jpg	2.415±0.20
+images/000000012_3.jpg	Φ5.14 +0.03/-0.07
+images/000000103_3.jpg	Φ7.47 +0.05/-0.04
+images/000000062_3.jpg	Φ3.45 +0.01/-0.05
+images/000000376.jpg	4.57
+images/000000289_1.jpg	W7P7f
+images/000000365_2.jpg	Φ7.45 +0.06/-0.09
+images/000000008.jpg	2.54
+images/000000470_1.jpg	7>Y
+images/000000147_4.jpg	X5+0.20
+images/000000279_4.jpg	Φ16.75-0.05
+images/000000269_2.jpg	Φ9.33 +0.08/-0.03
+images/000000019.jpg	Φ
+images/000000543_3.jpg	17.27+0.10
+images/000000224_5.jpg	4X±0.12
+images/train_word_94.jpg	10.89 ±0.25
+images/000000546_3.jpg	X7-0.08
+images/val_word_21.jpg	0.35 ±0.05
+images/000000101_2.jpg	7X
+images/000000384_3.jpg	(7.8)+0.10
+images/000000215_4.jpg	M10+0.08
+images/000000464_4.jpg	3.15+0.12
+images/000000043_5.jpg	2.03±0.15
+images/000000369.jpg	28.14
+images/000000319.jpg	200.25
+images/val_word_19.jpg	1.27X7=8.89
+images/000000023.jpg	50.25
+images/000000396_2.jpg	Φ9.22 +0.06/-0.06
+images/000000138_3.jpg	Φ7.20 +0.01/-0.02
+images/000000194_1.jpg	`Ytk
+images/000000134_4.jpg	M12-0.05
+images/000000336.jpg	0.6
+images/000000661.jpg	45.75
+images/000000690_3.jpg	0.13-0.12
+images/000000104_1.jpg	!E)
+images/000000073_2.jpg	10.84
+images/000000186_2.jpg	0.6
+images/000000079_2.jpg	Φ20.00
+images/train_word_141.jpg	8.89
+images/000000414.jpg	(7.8)
+images/000000484_2.jpg	Φ9.35 +0.02/-0.03
+images/train_word_154.jpg	13.00 ±0.25
+images/000000286_3.jpg	X8+0.15
+images/000000487_3.jpg	5X±0.15
+images/000000213_2.jpg	0.00
+images/000000281_3.jpg	X3±0.15
+images/000000168_4.jpg	11.0±0.25
+images/000000325_4.jpg	125.75±0.12
+images/000000461_3.jpg	18.07-0.05
+images/000000540_2.jpg	6.09±0.25
+images/000000178_2.jpg	0.2
+images/000000524.jpg	150.00
+images/000000587_3.jpg	X4±0.15
+images/000000693_2.jpg	-±0.12
+images/train_word_221.jpg	R2
+images/000000140_1.jpg	/=Y4)o
+images/000000579_2.jpg	3X+0.08
+images/000000141.jpg	X6
+images/000000059_3.jpg	Φ5.36 +0.03/-0.03
+images/val_word_25.jpg	0.2~
+images/000000224_3.jpg	Φ1.85 +0.10/-0.02
+images/000000133.jpg	7X
+images/000000356.jpg	(3.5)
+images/000000016_4.jpg	X3±0.05
+images/000000020_3.jpg	Φ3.18 +0.04/-0.03
+images/000000431_4.jpg	-+0.05
+images/000000381_3.jpg	±-0.05
+images/000000486_3.jpg	1X±0.30
+images/000000697_1.jpg	mDF:1W
+images/000000678_3.jpg	Φ16.75±0.12
+images/000000323_1.jpg	1AtF0f
+images/000000175_2.jpg	R10.5
+images/000000608_2.jpg	X6-0.05
+images/000000199_3.jpg	Φ9.12 +0.02/-0.02
+images/000000300_4.jpg	R10.5+0.12
+images/000000100_2.jpg	0.08
+images/000000595_3.jpg	X8±0.25
+images/000000525_3.jpg	-±0.15
+images/000000219_2.jpg	Φ30.15
+images/000000196.jpg	X7
+images/000000420.jpg	~
+images/000000280_2.jpg	Φ7.13 +0.09/-0.08
+images/000000358_2.jpg	Φ5.64 +0.06/-0.08
+images/000000088_3.jpg	Φ4.22 +0.04/-0.09
+images/000000690_1.jpg	v=Vx?[±
+images/000000227_2.jpg	=
+images/000000473_1.jpg	^ycT+±
+images/000000317_4.jpg	4.06-0.30
+images/000000261_4.jpg	X9-0.12
+images/000000580.jpg	150.00
+images/000000249_4.jpg	50.25+0.12
+images/000000176.jpg	2.67
+images/000000036.jpg	2.415
+images/000000581_3.jpg	2.415+0.03
+images/000000523.jpg	Φ5.20
+images/000000027_2.jpg	150.00
+images/000000408_4.jpg	0.20±0.05
+images/000000217_2.jpg	1.27
+images/000000154_5.jpg	R5.0+0.15
+images/000000664.jpg	4.70
+images/000000315_3.jpg	&±0.05
+images/train_word_88.jpg	(10.7)
+images/train_word_226.jpg	6.70 +0.25/0.00
+images/000000300_3.jpg	150.00±0.12
+images/000000095_1.jpg	JeS=%g
+images/train_word_225.jpg	0.00
+images/000000303_4.jpg	4.06+0.12
+images/000000061_1.jpg	{6x"q
+images/000000439_3.jpg	0.6-0.10
+images/000000569_3.jpg	2X±0.15
+images/000000106_3.jpg	Φ7.10 +0.07/-0.03
+images/000000351_1.jpg	Z}E;
+images/000000483_4.jpg	15.83±0.05
+images/000000312.jpg	0.25
+images/000000115.jpg	6.09
+images/000000424_4.jpg	1X-0.30
+images/000000043.jpg	45.75
+images/train_word_142.jpg	L3
+images/000000412_4.jpg	Φ12.50±0.25
+images/000000658_1.jpg	Y73
+images/000000171_5.jpg	1X0.00
+images/000000665_3.jpg	Φ8.00±0.20
+images/000000656.jpg	X7
+images/000000060_2.jpg	Φ8.00
+images/000000677.jpg	28.14
+images/000000539_1.jpg	A&h
+images/000000446_2.jpg	Φ8.30 +0.02/-0.09
+images/000000630.jpg	M24
+images/000000518_2.jpg	3.18-0.30
+images/000000127_5.jpg	2X±0.10
+images/000000049_4.jpg	(3.5)-0.12
+images/000000593_3.jpg	2.95±0.05
+images/000000069_5.jpg	Φ20.00+0.05
+images/000000005_5.jpg	0.45-0.30
+images/000000417_4.jpg	M12±0.30
+images/000000377_2.jpg	Φ6.62 +0.02/-0.01
+images/000000441_3.jpg	1.27TYP.±0.03
+images/000000339_4.jpg	2.54TYP.±0.25
+images/000000299_4.jpg	0.20±0.30
+images/000000286_4.jpg	Φ-0.12
+images/000000400_1.jpg	j[1CJ
+images/000000050_4.jpg	1X±0.20
+images/000000433.jpg	-
+images/000000295_1.jpg	wvC7
+images/train_word_69.jpg	(4.0)
+images/000000162_5.jpg	65.40+0.10
+images/000000393_2.jpg	Φ9.97 +0.03/-0.01
+images/000000062_2.jpg	25.12
+images/000000622_1.jpg	'}3Φ
+images/000000103.jpg	X6
+images/000000220_1.jpg	5ejo)
+images/000000457_2.jpg	Φ2.64 +0.07/-0.09
+images/val_word_58.jpg	R5
+images/000000063_3.jpg	Φ4.08 +0.08/-0.06
+images/000000277.jpg	2.54
+images/val_word_77.jpg	8LED
+images/000000342_4.jpg	Φ±0.10
+images/000000699.jpg	RJ
+images/000000451_4.jpg	X6+0.03
+images/000000322_1.jpg	@e|
+images/val_word_52.jpg	R2
+images/000000391.jpg	0.2
+images/000000012_2.jpg	(7.8)
+images/000000460.jpg	Φ5.20
+images/train_word_93.jpg	10.89 ±0.25
+images/000000042_5.jpg	3X±0.08
+images/000000350_2.jpg	Φ5.48 +0.02/-0.10
+images/train_word_10.jpg	Φ3.15
+images/000000278_3.jpg	R15.25-0.25
+images/000000337.jpg	&
+images/000000020_4.jpg	200.25-0.05
+images/000000603_3.jpg	1.27±0.12
+images/000000370.jpg	1.15
+images/000000484_4.jpg	7X±0.25
+images/train_word_149.jpg	R6
+images/000000173_1.jpg	Z{}{@
+images/000000016_1.jpg	]^8
+images/000000352_3.jpg	soldering±0.12
+images/000000336_2.jpg	Φ6.40 +0.06/-0.09
+images/000000310_3.jpg	0.25-0.15
+images/000000121.jpg	0.25
+images/000000464_3.jpg	25.78±0.18
+images/000000590_3.jpg	(3.5)±0.18
+images/000000236_3.jpg	Φ6.30 +0.04/-0.10
+images/000000689.jpg	11.0
+images/000000331.jpg	125.75
+images/000000422_1.jpg	I2UKv
+images/000000495_3.jpg	200.250.00
+images/000000032_1.jpg	uJp±(E
+images/000000659_2.jpg	R10.5±0.05
+images/000000192_5.jpg	3.18±0.15
+images/000000072_4.jpg	30.00±0.03
+images/000000423_2.jpg	Φ9.25 +0.03/-0.05
+images/000000229_1.jpg	Sm+Bef,
+images/000000462_3.jpg	0.05±0.05
+images/000000482_4.jpg	10.610.00
+images/train_word_34.jpg	6.35
+images/000000076_2.jpg	17.27
+images/000000007_2.jpg	0.2
+images/000000361_1.jpg	s<u1j?
+images/000000322_2.jpg	Φ5.20 +0.07/-0.02
+images/000000643_1.jpg	Q(/
+images/000000193_2.jpg	50.25
+images/train_word_105.jpg	4.06
+images/000000670.jpg	11.43
+images/000000610_2.jpg	0.05±0.08
+images/000000582_1.jpg	57(QtP
+images/000000579_1.jpg	Y{*
+images/000000155_2.jpg	15.83
+images/000000276_1.jpg	=O\
+images/000000460_4.jpg	M8±0.05
+images/train_word_19.jpg	0.35 ±0.05
+images/000000220_5.jpg	1.40±0.25
+images/000000595_2.jpg	(7.8)-0.25
+images/000000339_3.jpg	R10.5-0.18
+images/train_word_44.jpg	13.40 ±0.25
+images/000000117_4.jpg	25.78+0.15
+images/000000490_3.jpg	M6-0.10
+images/000000669_3.jpg	(7.8)+0.03
+images/000000411_4.jpg	1X+0.25
+images/000000456_3.jpg	X3±0.15
+images/000000182_2.jpg	(7.8)
+images/000000494_4.jpg	45.75-0.30
+images/000000275_2.jpg	Φ8.45 +0.02/-0.04
+images/000000274_1.jpg	R"|
+images/000000213_5.jpg	M16+0.25
+images/000000602.jpg	Φ20.00
+images/train_word_74.jpg	10.89 ±0.25
+images/train_word_214.jpg	L4
+images/000000438_3.jpg	80.00+0.05
+images/000000351_2.jpg	Φ1.95 +0.02/-0.01
+images/000000543_1.jpg	d>W0
+images/000000439_4.jpg	0.2±0.18
+images/000000410_2.jpg	Φ4.95 +0.05/-0.05
+images/000000579_3.jpg	Φ12.50-0.25
+images/000000582_2.jpg	/±0.12
+images/000000502_2.jpg	0.35-0.05
+images/000000450_1.jpg	kXFD2i
+images/000000192_3.jpg	Φ4.22 +0.02/-0.05
+images/000000292.jpg	0.35
+images/000000153.jpg	30.00
+images/000000029_2.jpg	65.40
+images/000000236_2.jpg	0.6
+images/000000677_2.jpg	3.18±0.00
+images/000000003_3.jpg	Φ5.49 +0.07/-0.09
+images/000000078_2.jpg	11.43
+images/000000577.jpg	(3.5)
+images/000000307_3.jpg	150.00±0.08
+images/000000019_2.jpg	M8
+images/000000205_4.jpg	M240.00
+images/000000505_3.jpg	=+0.15
+images/000000058.jpg	2.67
+images/000000090_3.jpg	Φ8.11 +0.07/-0.06
+images/val_word_14.jpg	0.2~0.6
+images/000000571_2.jpg	80.00+0.05
+images/000000465_2.jpg	Φ1.55 +0.05/-0.08
+images/000000308.jpg	3X
+images/000000444.jpg	&
+images/000000270_3.jpg	15.49-0.08
+images/000000152_1.jpg	a*i)
+images/000000480.jpg	RJ
+images/000000148_3.jpg	Φ8.89 +0.09/-0.07
+images/000000177_2.jpg	6.09
+images/000000078_3.jpg	Φ5.03 +0.05/-0.09
+images/train_word_75.jpg	0.50 ±0.08RJ
+images/000000562_3.jpg	50.25±0.05
+images/000000503.jpg	RJ
+images/000000680_1.jpg	L:kyv
+images/000000079.jpg	RJ
+images/000000259_4.jpg	10.84±0.05
+images/000000226.jpg	)
+images/000000340_2.jpg	Φ6.28 +0.06/-0.10
+images/000000239_2.jpg	4X
+images/000000067_4.jpg	M8±0.25
+images/000000638_3.jpg	30.00±0.15
+images/000000459.jpg	200.25
+images/000000425_2.jpg	Φ3.19 +0.09/-0.06
+images/000000340_1.jpg	U^iX
+images/000000306_4.jpg	150.00±0.05
+images/000000316_2.jpg	Φ8.33 +0.06/-0.07
+images/000000056_2.jpg	X9
+images/000000116_3.jpg	Φ2.70 +0.08/-0.02
+images/000000018_1.jpg	Q[mB
+images/000000414_1.jpg	YAUvk
+images/train_word_116.jpg	8.89
+images/000000209_5.jpg	X9+0.10
+images/000000175_3.jpg	Φ4.86 +0.02/-0.09
+images/000000123_2.jpg	(7.8)
+images/000000027_1.jpg	"g6XBs,
+images/000000024.jpg	3X
+images/000000017_2.jpg	4.57
+images/train_word_239.jpg	R2
+images/000000454_3.jpg	2.03-0.08
+images/000000198.jpg	M20
+images/000000052.jpg	3.22
+images/000000231_5.jpg	0.20-0.10
+images/000000557.jpg	2.415
+images/000000529_1.jpg	6\[F
+images/000000616_1.jpg	]TD
+images/000000239_5.jpg	M6-0.25
+images/000000000_3.jpg	Φ1.39 +0.04/-0.09
+images/000000643_3.jpg	TYP.+0.08
+images/000000578_1.jpg	cfb
+images/train_word_191.jpg	0.00
+images/000000096_5.jpg	5X±0.25
+images/000000028.jpg	0.13
+images/train_word_171.jpg	0.25
+images/000000503_3.jpg	2.03TYP.+0.20
+images/000000168.jpg	TYP.
+images/000000440.jpg	X5
+images/000000017_5.jpg	0.08±0.30
+images/000000483.jpg	0.2
+images/000000484.jpg	AfterPre
+images/000000329_4.jpg	Φ20.00+0.20
+images/000000591_1.jpg	Y$/(@
+images/000000531_3.jpg	2.415-0.05
+images/000000010.jpg	Φ
+images/000000023_1.jpg	g@wt
+images/000000165_4.jpg	30.00+0.15
+images/000000200_4.jpg	6.09-0.12
+images/000000021_3.jpg	Φ2.12 +0.09/-0.03
+images/train_word_98.jpg	ight LED
+images/000000106_1.jpg	+?[/Ij?
+images/000000440_3.jpg	28.14±0.25
+images/000000017_1.jpg	PMDM
+images/000000642.jpg	15.83
+images/000000114_5.jpg	80.00-0.25
+images/000000611_2.jpg	R5.0-0.18
+images/000000386_1.jpg	.f[
+images/000000270_4.jpg	(±0.08
+images/000000568_2.jpg	6.09-0.08
+images/000000030_4.jpg	M12+0.15
+images/000000409.jpg	RJ
+images/000000085_3.jpg	Φ4.43 +0.05/-0.10
+images/train_word_21.jpg	Pre-soldering
+images/000000375_3.jpg	150.00±0.18
+images/000000492_1.jpg	)JI^
+images/000000149_4.jpg	0.25-0.10
+images/000000576_2.jpg	M6±0.30
+images/000000637_3.jpg	100.50-0.12
+images/000000452_2.jpg	Φ4.92 +0.09/-0.04
+images/000000618_1.jpg	"xuk
+images/000000545_2.jpg	R5.0±0.10
+images/000000356_2.jpg	Φ8.19 +0.02/-0.03
+images/000000547.jpg	0.25
+images/000000142_2.jpg	0.00
+images/val_word_42.jpg	13.00 ±0.25
+images/000000586_3.jpg	10.610.00
+images/000000498.jpg	0.38
+images/000000143_4.jpg	1.15-0.05
+images/000000215_5.jpg	6X-0.05
+images/000000204_4.jpg	4X±0.25
+images/000000048_5.jpg	18.07-0.18
+images/000000063_2.jpg	2.415
+images/train_word_29.jpg	RJ
+images/000000099_3.jpg	Φ8.85 +0.01/-0.08
+images/000000468_1.jpg	65ZkI
+images/train_word_219.jpg	1.27X9=11.43
+images/000000077_5.jpg	0.08±0.18
+images/train_word_38.jpg	Standoff
+images/000000050_2.jpg	25.12
+images/000000251.jpg	2.03
+images/000000231_2.jpg	)
+images/000000324_4.jpg	2.67-0.18
+images/train_word_249.jpg	R3
+images/000000280_4.jpg	0.25±0.30
+images/000000094_3.jpg	Φ8.26 +0.07/-0.05
+images/000000504.jpg	6X
+images/val_word_36.jpg	0.50 ±0.08
+images/000000274_3.jpg	2.03±0.05
+images/000000296_3.jpg	&+0.05
+images/000000196_4.jpg	3X±0.20
+images/000000071_2.jpg	4.70
+images/000000631.jpg	2.03
+images/000000185_3.jpg	Φ6.55 +0.10/-0.07
+images/000000604_1.jpg	/'sP"
+images/000000602_2.jpg	2.415+0.25
+images/000000270_1.jpg	A4n)@L%
+images/train_word_85.jpg	R1
+images/000000271_1.jpg	^Z&%J
+images/000000181_1.jpg	%]->
+images/000000432_3.jpg	2.95+0.20
+images/000000353_1.jpg	aTΦmΦ\P
+images/000000622_3.jpg	6X+0.03
+images/000000354.jpg	150.00
+images/train_word_123.jpg	2XΦ3.15 0.00/-0.25
+images/000000316.jpg	0.2
+images/000000335_2.jpg	Φ1.73 +0.02/-0.03
+images/000000287_1.jpg	A&K[o-\
+images/000000298_4.jpg	6.09±0.25
+images/000000521.jpg	R5.0
+images/000000063_5.jpg	Φ20.00+0.15
+images/000000422_3.jpg	M12±0.08
+images/000000076_1.jpg	pU±
+images/000000096_2.jpg	17.07
+images/000000532_1.jpg	;A/X
+images/000000396_3.jpg	5X-0.08
+images/000000197_5.jpg	6X-0.12
+images/000000275_4.jpg	AfterPre±0.25
+images/000000641_3.jpg	6X±0.08
+images/000000311_4.jpg	X5-0.18
+images/000000237_2.jpg	=
+images/000000351_3.jpg	Φ+0.05
+images/000000135_5.jpg	50.25±0.08
+images/000000371_4.jpg	18.07-0.05
+images/000000383.jpg	0.13
+images/000000693.jpg	11.43
+images/000000664_1.jpg	Na3V
+images/000000219_3.jpg	Φ4.05 +0.01/-0.10
+images/000000014_2.jpg	/
+images/000000230.jpg	50.25
+images/000000321_4.jpg	0.13±0.05
+images/val_word_24.jpg	P/N&D/C
+images/000000250.jpg	X4
+images/000000397_4.jpg	X5-0.08
+images/000000097_4.jpg	Φ5.20±0.05
+images/000000167.jpg	X7
+images/000000413_1.jpg	`2IR
+images/000000158_1.jpg	o/k`c]
+images/train_word_251.jpg	3.38
+images/000000672_1.jpg	Ym&@O
+images/000000655_2.jpg	AfterPre±0.15
+images/000000622_2.jpg	(7.8)±0.12
+images/000000257_1.jpg	|p6P
+images/000000552.jpg	100.50
+images/000000112_1.jpg	9k±'
+images/000000550_3.jpg	200.25+0.20
+images/000000127.jpg	Φ
+images/000000039.jpg	TYP.
+images/000000445_4.jpg	100.50-0.05
+images/train_word_50.jpg	RJ
+images/000000696_2.jpg	M6±0.05
+images/000000211_2.jpg	(
+images/000000149_5.jpg	TYP.0.00
+images/000000371_1.jpg	y4[
+images/000000691_2.jpg	M120.00
+images/000000041.jpg	3.22
+images/000000123_4.jpg	3.15±0.15
+images/000000075_1.jpg	{F]
+images/000000188_4.jpg	3X±0.15
+images/000000346_1.jpg	1Tpo5T5
+images/000000673_3.jpg	Φ+0.10
+images/000000199.jpg	15.49
+images/000000031_5.jpg	2.54±0.05
+images/000000221_5.jpg	50.25+0.03
+images/000000620_2.jpg	(-0.18
+images/000000584.jpg	200.25
+images/000000327_1.jpg	('ti8M
+images/000000405_3.jpg	4.06±0.10
+images/train_word_110.jpg	13.26
+images/000000660_3.jpg	3X+0.12
+images/000000588_3.jpg	17.27+0.12
+images/000000585_3.jpg	X3±0.30
+images/000000001_3.jpg	Φ7.61 +0.08/-0.08
+images/train_word_253.jpg	2X1.0 ±0.50
+images/000000442_1.jpg	+3&}
+images/000000638.jpg	1.40
+images/000000583_2.jpg	30.00+0.20
+images/000000252_4.jpg	Φ30.15-0.25
+images/000000566_3.jpg	R10.5±0.30
+images/000000466_3.jpg	±-0.05
+images/000000219.jpg	~
+images/000000424_3.jpg	Φ20.00±0.30
+images/000000207_5.jpg	6X±0.08
+images/000000440_4.jpg	17.07±0.10
+images/000000020_1.jpg	hq}49
+images/000000067_5.jpg	0.2+0.25
+images/000000118_4.jpg	(3.5)+0.05
+images/000000352.jpg	0.6
+images/000000483_1.jpg	:9q
+images/000000242_2.jpg	-
+images/train_word_115.jpg	L2
+images/000000104_2.jpg	0.35
+images/000000255.jpg	2.54
+images/000000158_2.jpg	M8
+images/000000050_5.jpg	17.07-0.15
+images/000000463_2.jpg	Φ6.39 +0.02/-0.07
+images/000000452_3.jpg	80.00+0.05
+images/000000154_3.jpg	Φ5.09 +0.05/-0.08
+images/000000009_2.jpg	25.78
+images/000000068_5.jpg	25.50+0.20
+images/000000607_1.jpg	^/@,'
+images/000000292_4.jpg	&+0.25
+images/000000223_3.jpg	Φ3.91 +0.01/-0.02
+images/000000040_3.jpg	Φ3.52 +0.10/-0.06
+images/000000169_4.jpg	65.40+0.08
+images/val_word_62.jpg	21.78 ±0.38
+images/000000148_5.jpg	2X+0.15
